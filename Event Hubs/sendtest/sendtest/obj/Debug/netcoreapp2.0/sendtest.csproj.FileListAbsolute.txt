@@ -1,0 +1,11 @@
+C:\Users\johnoharper\Desktop\sendtest\sendtest\bin\Debug\netcoreapp2.0\sendtest.deps.json
+C:\Users\johnoharper\Desktop\sendtest\sendtest\bin\Debug\netcoreapp2.0\sendtest.runtimeconfig.json
+C:\Users\johnoharper\Desktop\sendtest\sendtest\bin\Debug\netcoreapp2.0\sendtest.runtimeconfig.dev.json
+C:\Users\johnoharper\Desktop\sendtest\sendtest\bin\Debug\netcoreapp2.0\sendtest.dll
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.csprojResolveAssemblyReference.cache
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.csproj.CoreCompileInputs.cache
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.AssemblyInfoInputs.cache
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.AssemblyInfo.cs
+C:\Users\johnoharper\Desktop\sendtest\sendtest\bin\Debug\netcoreapp2.0\sendtest.pdb
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.dll
+C:\Users\johnoharper\Desktop\sendtest\sendtest\obj\Debug\netcoreapp2.0\sendtest.pdb
